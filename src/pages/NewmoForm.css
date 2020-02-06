@@ -1,5 +1,5 @@
 .section-newmoform {
-  background-color: #EBECF0;
+  background-color: #f0f0f0;
   text-align: center;
   align-items: center;
 }
@@ -22,7 +22,7 @@
   width: 100%;
   border-radius: 300px;
   padding: 1.2rem;
-  background-color: #EBECF0;
+  background-color: #f0f0f0;
   box-sizing: border-box;
   border: none;
   box-shadow: inset -3px -3px 10px -2px white, inset 3px 3px 10px -2px #BABECC;
@@ -39,7 +39,7 @@
 .btn-block {
   display: block;
   width: 100%;
-  background-color: #EBECF0;
+  background-color: #f0f0f0;
   border: none;
   border-radius: 300px;
   box-shadow: 6px 6px 16px 0px #BABECC, -6px -6px 16px 0px white;
@@ -62,7 +62,7 @@
 
 .btn {
   display: inline-block;
-  background-color: #EBECF0;
+  background-color: #f0f0f0;
   border: none;
   border-radius: 15px;
   box-shadow: 6px 6px 16px 0px #BABECC, -6px -6px 16px 0px white;
